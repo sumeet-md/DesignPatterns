@@ -1,0 +1,16 @@
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Strategy\bin\Debug\net5.0\Strategy.exe
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Strategy\bin\Debug\net5.0\Strategy.deps.json
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Strategy\bin\Debug\net5.0\Strategy.runtimeconfig.json
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Strategy\bin\Debug\net5.0\Strategy.runtimeconfig.dev.json
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Strategy\bin\Debug\net5.0\Strategy.dll
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Strategy\bin\Debug\net5.0\ref\Strategy.dll
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Strategy\bin\Debug\net5.0\Strategy.pdb
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Strategy\obj\Debug\net5.0\Strategy.csproj.AssemblyReference.cache
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Strategy\obj\Debug\net5.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Strategy\obj\Debug\net5.0\Strategy.AssemblyInfoInputs.cache
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Strategy\obj\Debug\net5.0\Strategy.AssemblyInfo.cs
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Strategy\obj\Debug\net5.0\Strategy.csproj.CoreCompileInputs.cache
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Strategy\obj\Debug\net5.0\Strategy.dll
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Strategy\obj\Debug\net5.0\ref\Strategy.dll
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Strategy\obj\Debug\net5.0\Strategy.pdb
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Strategy\obj\Debug\net5.0\Strategy.genruntimeconfig.cache

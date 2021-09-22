@@ -1,0 +1,15 @@
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Prototype\bin\Debug\net5.0\Prototype.exe
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Prototype\bin\Debug\net5.0\Prototype.deps.json
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Prototype\bin\Debug\net5.0\Prototype.runtimeconfig.json
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Prototype\bin\Debug\net5.0\Prototype.runtimeconfig.dev.json
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Prototype\bin\Debug\net5.0\Prototype.dll
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Prototype\bin\Debug\net5.0\ref\Prototype.dll
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Prototype\bin\Debug\net5.0\Prototype.pdb
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Prototype\obj\Debug\net5.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Prototype\obj\Debug\net5.0\Prototype.AssemblyInfoInputs.cache
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Prototype\obj\Debug\net5.0\Prototype.AssemblyInfo.cs
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Prototype\obj\Debug\net5.0\Prototype.csproj.CoreCompileInputs.cache
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Prototype\obj\Debug\net5.0\Prototype.dll
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Prototype\obj\Debug\net5.0\ref\Prototype.dll
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Prototype\obj\Debug\net5.0\Prototype.pdb
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Prototype\obj\Debug\net5.0\Prototype.genruntimeconfig.cache

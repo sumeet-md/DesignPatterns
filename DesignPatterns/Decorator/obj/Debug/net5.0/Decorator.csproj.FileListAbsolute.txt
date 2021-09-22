@@ -1,0 +1,15 @@
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Decorator\bin\Debug\net5.0\Decorator.exe
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Decorator\bin\Debug\net5.0\Decorator.deps.json
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Decorator\bin\Debug\net5.0\Decorator.runtimeconfig.json
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Decorator\bin\Debug\net5.0\Decorator.runtimeconfig.dev.json
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Decorator\bin\Debug\net5.0\Decorator.dll
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Decorator\bin\Debug\net5.0\ref\Decorator.dll
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Decorator\bin\Debug\net5.0\Decorator.pdb
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Decorator\obj\Debug\net5.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Decorator\obj\Debug\net5.0\Decorator.AssemblyInfoInputs.cache
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Decorator\obj\Debug\net5.0\Decorator.AssemblyInfo.cs
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Decorator\obj\Debug\net5.0\Decorator.csproj.CoreCompileInputs.cache
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Decorator\obj\Debug\net5.0\Decorator.dll
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Decorator\obj\Debug\net5.0\ref\Decorator.dll
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Decorator\obj\Debug\net5.0\Decorator.pdb
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Decorator\obj\Debug\net5.0\Decorator.genruntimeconfig.cache

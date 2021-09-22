@@ -1,0 +1,16 @@
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Singleton\bin\Debug\net5.0\Singleton.exe
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Singleton\bin\Debug\net5.0\Singleton.deps.json
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Singleton\bin\Debug\net5.0\Singleton.runtimeconfig.json
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Singleton\bin\Debug\net5.0\Singleton.runtimeconfig.dev.json
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Singleton\bin\Debug\net5.0\Singleton.dll
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Singleton\bin\Debug\net5.0\ref\Singleton.dll
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Singleton\bin\Debug\net5.0\Singleton.pdb
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Singleton\obj\Debug\net5.0\Singleton.csproj.AssemblyReference.cache
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Singleton\obj\Debug\net5.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Singleton\obj\Debug\net5.0\Singleton.AssemblyInfoInputs.cache
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Singleton\obj\Debug\net5.0\Singleton.AssemblyInfo.cs
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Singleton\obj\Debug\net5.0\Singleton.csproj.CoreCompileInputs.cache
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Singleton\obj\Debug\net5.0\Singleton.dll
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Singleton\obj\Debug\net5.0\ref\Singleton.dll
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Singleton\obj\Debug\net5.0\Singleton.pdb
+C:\sumeetd\Source\Repos\sumeet-md\DesignPatterns\DesignPatterns\Singleton\obj\Debug\net5.0\Singleton.genruntimeconfig.cache
